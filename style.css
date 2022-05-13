@@ -1,0 +1,74 @@
+.bg-right{
+    background-color: #E8EBF5;
+    
+}
+
+.girl-img {
+    background-image: url("/public/images/left.png");
+    /* height: 535px; */
+    height: 673px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 50px;
+    /* margin-right: 20px; */
+    background-size: contain;
+}
+
+.continue{
+    width: 290px;
+    height: 80px;
+    border: none;
+    outline: none;
+    background-color: #0BB8E4;
+    color: #fff;
+    font-size: 22px;
+    border-radius: 40px;
+    text-align: center;
+    padding-left: 20px;;
+    /* position: relative; */
+    overflow: hidden;
+    cursor: pointer;
+    /* right: 160px; */
+}
+
+
+.continue:hover{
+    background-color: #0BB8E4;
+}
+.edit-btn{
+    background-color: #0BB8E4;
+}
+.btn-con{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+#phone{
+    width: 375.5px;
+    height: 70.49px;
+    padding-left: 20px;
+    
+}
+
+#common-input{
+    width: 200px;
+    height: 70.49px;
+    padding-left: 22px;
+    margin-right: 10px;
+    border-radius: 10px;
+    font-size: 30px;
+    /* border: none; */
+    border-color: #fff;
+    border-top: #fff;
+    border-left: #fff;
+}
+
+.flex-gap {
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+  
+  .flex-gap > div {
+    margin: 6px;
+  }
